@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sneggoroddd.github.io/ezviz-camera-video-downloader/sitemap.xml
