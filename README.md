@@ -1,5 +1,7 @@
 # EZVIZ camera video downloader landing page
 
+Live site: https://sneggoroddd.github.io/ezviz-camera-video-downloader/
+
 Static Russian and English landing page for [@EZVIZ_download_bot](https://t.me/EZVIZ_download_bot). Published with GitHub Pages from the `main` branch root.
 
 ## Pages
